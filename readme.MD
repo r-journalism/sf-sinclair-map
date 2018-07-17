@@ -1,6 +1,6 @@
 ## Mapping Sinclair Broadcast's reach
 
-These files and folders are meant to accompany a walkthrough on r-journalism.com.
+These files and folders are meant to accompany [a walkthrough](http://r-journalism.com/posts/2018-07-17-sf-sinclair-map/map/) on [r-journalism.com](https://r-journalism.com.
 
 The quickest way to access the data for this chapter is to 1) make sure your current project directory is logically organized. 
 
